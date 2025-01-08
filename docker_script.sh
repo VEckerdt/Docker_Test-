@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 #Este es un script de pruebas:
 
 sudo apt update \
